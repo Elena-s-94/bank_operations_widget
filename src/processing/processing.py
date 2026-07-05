@@ -20,7 +20,7 @@ from datetime import datetime
 
 def sort_by_date(data_list: List[Dict], descending: bool = True) -> List[Dict]:
     """
-    Сортирует список словарей по дате.
+    Сортирует список слfварей по дате.
 
     Параметры:
         data_list (List[Dict]): Список словарей с данными о транзакциях.
